@@ -1,0 +1,8 @@
+name: Brian's Blog
+description: Brian's blog, wherein Brian posts about stuff
+url: http://bmoeskau.github.io
+author: Brian Moeskau
+markdown: redcarpet
+redcarpet:
+  extensions: [smart]
+pygments: true
