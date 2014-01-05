@@ -1,21 +1,12 @@
 ---
 layout: post
-title: Testing Out Jekyll
+title: 5 Startup Lessons I Learned From My Yard Guy
 ---
 
-Blah `blah` blah. More stuff here.
-And more.
+These are some things I've learned.
 
-And more?
-
-### Some Section
-
-Yes, this is working!
-
-Does code work?
-
-{% highlight javascript linenos %}
-function foo() {
-  return 'bar';
-}
-{% endhighlight %}
+1. Don't wait for customers to find you
+1. Engage
+1. Smile
+1. Eliminate pain, add value
+1. Exceed expectations
